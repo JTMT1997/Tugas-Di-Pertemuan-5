@@ -1,0 +1,77 @@
+#header{
+	position: relative;
+	background-color: lavender;
+	width: auto;
+	height: 30px;
+}
+
+#header .logo{
+	position: absolute;
+	margin-top: 5px;
+
+}
+
+#header .link1{
+	position: absolute;
+	margin-top: 5px;
+	float: auto;
+	margin-left: 80%
+}
+
+#header .link2{
+	position: absolute;
+	margin-left: 85%;
+	margin-top: 5px;
+	float: auto;
+
+}
+
+#header .link3{
+	position: absolute;
+	margin-left: 90%;
+	margin-top: 5px;
+}
+#body {
+	background-color: gray;
+	height: 400px;
+	width: auto;
+	
+	position: relative;
+}
+
+#body .body{
+	background-color: white;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 450px;
+	position: absolute;
+	padding-bottom:100px;
+	padding-left: 100px;
+	
+	width: 150px;
+	height: 150px;
+
+	}
+
+#body .body .dalan{
+	position: absolute;
+	margin-right: 100px;
+}
+
+#footer{
+	position: relative;
+	background-color: lavender;			
+	width: 100%;
+	height: 8%;
+	position: absolute;
+
+}
+
+.a1{
+	margin-right: 20px;
+	position: absolute;
+	position: absolute;
+}
+#footer p{
+	margin-left: 500px;		
+}
